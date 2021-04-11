@@ -2,7 +2,7 @@
 ACL2 Files for my CS2800 final
 
 Both files need to be run in ACL2s, I used eclipse so I would recommend that.
-Both files take a fairly long time to run(shouldn't be more than 10 minutes) and prove everything.
+Both files take a fairly long time to run(shouldn't be more than 10 minutes) and finish all of the proofs.
 
 Karatsuba.lisp was essentially my scratch space for this project so its pretty unorganized and not everything will run. The overall goal in that file was to prove the equivalency of karatsuba multiplication, and the multiplication built into acl2s but I got super stuck and everything required like 6 defthms and 5 minutes of proving time to run in logic mode so I pivoted to proving some interesting properties about the list numbers data type I defined. 
 
